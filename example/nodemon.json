@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "watch": ["~/pages/*", "~/components/*", "~/styles/*"],
+  "ignore": [".next/*", "node_modules/*", "styles/dist.scss", "*.json"]
+}

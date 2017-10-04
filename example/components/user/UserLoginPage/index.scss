@@ -1,0 +1,16 @@
+.LoginComponent {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 150;
+  flex-direction: column;
+  h1 {
+    margin-bottom: 30px;
+  }
+  form {
+    width: 320px;
+  }
+  button {
+    width: 100%;
+  }
+}

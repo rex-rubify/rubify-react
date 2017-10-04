@@ -1,0 +1,16 @@
+@import 'antd/dist/antd.css';
+
+body {
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ant-input {
+  font-size: 14px;
+}
+
+.layout-admin-login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}

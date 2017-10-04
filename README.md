@@ -1,6 +1,6 @@
 # rubify-react
 
-> react redux next antd srr
+> react redux next antd
 
 ## Install
 
